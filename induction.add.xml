@@ -1,0 +1,31 @@
+<additional>
+
+   <inductionLoop id="2" lane="5028958#4.250_0" pos="20" freq="500" file="ind.out.xml" vType="roadtaxrenew"/>
+   <inductionLoop id="16" lane="5028958#4.250_0" pos="20" freq="500" file="ind.out.xml" vType="roadtaxrenew"/>
+   <inductionLoop id="23" lane="5028958#4.250_0" pos="20" freq="500" file="ind.out.xml" vType="roadtaxrenew"/>
+   <inductionLoop id="27" lane="5028958#4.250_0" pos="20" freq="500" file="ind.out.xml" vType="roadtaxrenew"/>
+   <inductionLoop id="29" lane="5028958#4.250_1" pos="20" freq="500" file="ind.out.xml" vType="roadtaxrenew"/>
+
+   <inductionLoop id="31" lane="5028958#4.250_1" pos="20" freq="500" file="ind.out.xml" vType="expiredroadtax"/>
+   <inductionLoop id="32" lane="5028958#4.250_0" pos="20" freq="500" file="ind.out.xml" vType="expiredroadtax"/>
+   <inductionLoop id="68" lane="5028958#4.250_0" pos="20" freq="500" file="ind.out.xml" vType="roadtaxrenew"/>
+   <inductionLoop id="75" lane="5028958#4.250_1" pos="20" freq="500" file="ind.out.xml" vType="roadtaxrenew"/>
+
+   <inductionLoop id="83" lane="5028958#4.250_0" pos="20" freq="500" file="ind.out.xml" vType="roadtaxrenew"/>
+   <inductionLoop id="86" lane="5028958#4.250_0" pos="20" freq="500" file="ind.out.xml" vType="roadtaxrenew"/>
+   <inductionLoop id="90" lane="5028958#4.250_1" pos="20" freq="500" file="ind.out.xml" vType="roadtaxrenew"/>
+   <inductionLoop id="105" lane="5028958#4.250_0" pos="20" freq="500" file="ind.out.xml" vType="roadtaxrenew"/>
+   <inductionLoop id="111" lane="5028958#4.250_0" pos="20" freq="500" file="ind.out.xml" vType="roadtaxrenew"/>
+
+   <inductionLoop id="116" lane="5028958#4.250_0" pos="20" freq="500" file="ind.out.xml" vType="roadtaxrenew"/>
+   <inductionLoop id="125" lane="5028958#4.250_1" pos="20" freq="500" file="ind.out.xml" vType="roadtaxrenew"/>
+   <inductionLoop id="145" lane="5028958#4.250_0" pos="20" freq="500" file="ind.out.xml" vType="roadtaxrenew"/>
+   <inductionLoop id="162" lane="5028958#4.250_0" pos="20" freq="500" file="ind.out.xml" vType="roadtaxrenew"/>
+   <inductionLoop id="186" lane="5028958#4.250_0" pos="20" freq="500" file="ind.out.xml" vType="roadtaxrenew"/>
+
+   <inductionLoop id="194" lane="5028958#4.250_1" pos="20" freq="500" file="ind.out.xml" vType="roadtaxrenew"/>
+   <inductionLoop id="205" lane="5028958#4.250_1" pos="20" freq="500" file="ind.out.xml" vType="roadtaxrenew"/>
+   <inductionLoop id="214" lane="5028958#4.250_1" pos="20" freq="500" file="ind.out.xml" vType="roadtaxrenew"/>
+   <inductionLoop id="225" lane="5028958#4.250_0" pos="20" freq="500" file="ind.out.xml" vType="roadtaxrenew"/>
+  
+</additional>
